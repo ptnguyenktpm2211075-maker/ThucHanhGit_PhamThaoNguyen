@@ -1,1 +1,1 @@
-Mon hoc: Quan ly ma nguon
+Mon hoc: Quan ly ma nguon bang Git va GitHub
